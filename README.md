@@ -8,3 +8,5 @@ This article is about a software engineering project, so hopefully this is allow
 
 ## __Comments:__
 * This is an interesting article because it goes along with the current trend of switching to streams over local ownership. With things like Google Stadia, it seems a lot of software companies are shifting to allow people with less powerful machines to run large applications remotely. I don't know if this trend will continue, but it seems to just be getting started. (Jack Heinemann) 
+*I think this app streaming software could be extremely beneficial for users with improvements being made
+in terms of data download time, optimal storage space, etc. Additionally, it's interesting to see the link to how AppStreamer could contribute to the response time of self-driving cars too. (Hayley Darukhanavala)
